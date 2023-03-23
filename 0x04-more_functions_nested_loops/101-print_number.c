@@ -24,11 +24,3 @@ void print_number(int n)
 
 	_putchar((n1 % 10) + '0');
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-
